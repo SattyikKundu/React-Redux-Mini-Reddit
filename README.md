@@ -1,4 +1,4 @@
-# Reddit-Minimal-project
+# Mini Reddit — React/Redux Project
 
 This React/Redux application uses Reddit API data to display popular subreddits and their posts in a simplified Reddit-style interface. Users can navigate between subreddits, search and filter posts, view multimedia content (including image carousels and video clips), and read nested comments.
 
