@@ -1,5 +1,6 @@
 # Reddit-Minimal-project
-This is **Portfolio Project #4** for my Full-stack web development course on Codecademy. This app uses Reddit API calls to render preselected subreddits that users can search through. Besides using React, this app uses Redux features like Dispatch and Store.
+
+This React/Redux application uses Reddit API data to display popular subreddits and their posts in a simplified Reddit-style interface. Users can navigate between subreddits, search and filter posts, view multimedia content (including image carousels and video clips), and read nested comments.
 
 ---
 
